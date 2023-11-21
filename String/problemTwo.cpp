@@ -14,7 +14,6 @@ int main(){
 
   cout<<"size of string without using s.size() is: ";
   for(int start=0;start<=s.size();start++){
-    if()
     num=count;
     count++;
   }
