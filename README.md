@@ -1,0 +1,1 @@
+This repository contains my daily coding practice exercises. Each day, I strive to enhance my programming skills by working on various algorithms, data structures, and programming challenges. The code here reflects my progress and the solutions I come up with as I tackle different problems.
